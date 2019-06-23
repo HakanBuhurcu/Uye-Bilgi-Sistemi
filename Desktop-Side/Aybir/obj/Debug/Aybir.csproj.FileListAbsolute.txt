@@ -1,0 +1,40 @@
+c:\users\toshiba s70\documents\visual studio 2012\Projects\Aybir\Aybir\bin\Debug\Aybir.exe.config
+c:\users\toshiba s70\documents\visual studio 2012\Projects\Aybir\Aybir\bin\Debug\Aybir.exe
+c:\users\toshiba s70\documents\visual studio 2012\Projects\Aybir\Aybir\bin\Debug\Aybir.pdb
+c:\users\toshiba s70\documents\visual studio 2012\Projects\Aybir\Aybir\obj\Debug\Aybir.csprojResolveAssemblyReference.cache
+c:\users\toshiba s70\documents\visual studio 2012\Projects\Aybir\Aybir\obj\Debug\Aybir.Form1.resources
+c:\users\toshiba s70\documents\visual studio 2012\Projects\Aybir\Aybir\obj\Debug\Aybir.Properties.Resources.resources
+c:\users\toshiba s70\documents\visual studio 2012\Projects\Aybir\Aybir\obj\Debug\Aybir.csproj.GenerateResource.Cache
+c:\users\toshiba s70\documents\visual studio 2012\Projects\Aybir\Aybir\obj\Debug\Aybir.exe
+c:\users\toshiba s70\documents\visual studio 2012\Projects\Aybir\Aybir\obj\Debug\Aybir.pdb
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Aybir\Aybir\obj\Debug\Aybir.Form2.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Aybir\Aybir\obj\Debug\Aybir.Form3.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Aybir\Aybir\obj\Debug\Aybir.Form4.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Aybir\Aybir\obj\Debug\Aybir.Form5.resources
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\bin\Debug\Aybir.exe.config
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\obj\Debug\Aybir.exe
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\obj\Debug\Aybir.pdb
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\bin\Debug\Aybir.exe
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\bin\Debug\Aybir.pdb
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\obj\Debug\Aybir.csprojResolveAssemblyReference.cache
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\obj\Debug\Aybir.Form1.resources
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\obj\Debug\Aybir.Form2.resources
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\obj\Debug\Aybir.Form3.resources
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\obj\Debug\Aybir.Form4.resources
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\obj\Debug\Aybir.Form5.resources
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\obj\Debug\Aybir.Properties.Resources.resources
+D:\Projeler\Visual Studio\Projects\Aybir\Aybir\obj\Debug\Aybir.csproj.GenerateResource.Cache
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\bin\Debug\Aybir.exe.config
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\bin\Debug\Aybir.exe
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\bin\Debug\Aybir.pdb
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.csprojAssemblyReference.cache
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.Form1.resources
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.Form2.resources
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.Form3.resources
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.Form4.resources
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.Form5.resources
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.Properties.Resources.resources
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.csproj.GenerateResource.cache
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.exe
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\UBS\Aybir\Aybir\obj\Debug\Aybir.pdb
